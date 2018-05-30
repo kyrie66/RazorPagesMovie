@@ -7,6 +7,7 @@ using RazorPagesMovie.Models;
 using System;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace RazorPagesMovie
 {
     public class Program
